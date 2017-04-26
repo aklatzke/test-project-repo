@@ -1,0 +1,14 @@
+header,
+footer{
+	padding: 10px 20px;
+	color: white;
+	background-color: #222;
+}
+
+main{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	background-color: #cdcdcd;
+	color: #333;
+}
